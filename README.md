@@ -34,6 +34,6 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 
 
 
-**Contact for api :** [https://t.me/bloodyev](https://t.me/bloodyev)
-## telegram: @bloodyev
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
 
